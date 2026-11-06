@@ -1,2 +1,2 @@
 # nerp-trailer-media
-Nerp Games: trailer frames and layers (public, for Picsart)
+Кадры для трейлеров Nerp Games (публично, чтобы их забирали Picsart/Veo). Основной проект — приватный.
